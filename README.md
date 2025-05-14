@@ -86,7 +86,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ##OUTPUT
 
-1[catfile](./imgess/3.png)
+![catfile](./imgess/3.png)
 
 
 
